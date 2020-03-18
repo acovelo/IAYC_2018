@@ -1,4 +1,4 @@
-The project in which I participated in IAYC 2018 aimed to predict the orbit of a star, given its mass and the orbits of its planets.
+The project in which I participated during IAYC 2018 aimed to predict the orbit of a star, given its mass and the orbits of its planets.
 
 In the file "1-Orbit.py", you can find the python script which draws the whole orbit of the star with only one planet, and the whole orbit of the planet.
 
